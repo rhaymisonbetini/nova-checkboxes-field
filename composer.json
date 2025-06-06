@@ -1,5 +1,5 @@
 {
-    "name": "dimona/nova-checkboxes-field",
+    "name": "rhaymisonbetini/nova-checkboxes-field",
     "description": "A Laravel Nova Checkboxes field. fork by idz original package",
     "keywords": [
         "laravel",
